@@ -3,7 +3,7 @@
     I like retro computing and repair. I sometimes use in EDA Software. I sometimes use Blender. I Sometimes Build Fnaf Pizzerias.
 
 - Project Status
-  - Client (C Version) - WIP(Has broken lua impl)
+  - Client (C Version) - WIP
   - Server (C Version) - Might merge it into the Client
   - Client (Java Version) - WIP
   - Client (CS Version) - Broken
