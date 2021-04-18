@@ -1,6 +1,6 @@
    Part of my github name has my real name in it. 
    Here are the languages I know:C,C++,Ruby,Python,C#,Java,X86 ASM,M68K ASM,6502 ASM,Javascript,Typescript,Lua,RBXLua(AKA Luau)
-    I like retro computing and repair. I sometimes use in EDA Software. I sometimes use Blender. I Sometimes Build Fnaf Pizzerias.
+    I like retro computing and repair. I sometimes use EDA Software. I sometimes use Blender. I Sometimes Build Fnaf Pizzerias.
 
 - Project Status
   - Client (C Version) - WIP
