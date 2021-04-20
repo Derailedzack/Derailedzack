@@ -19,3 +19,5 @@
     - C++
     - Java
     - Maybe X86 ASM
+- Possible Ideas
+   - An xinput wrapper for wii motes
