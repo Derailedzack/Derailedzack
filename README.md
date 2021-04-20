@@ -21,3 +21,5 @@
     - Maybe X86 ASM
 - Possible Ideas
    - An xinput wrapper for wii motes
+   - Aid reactos development
+   - Make a Kernel and OS
