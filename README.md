@@ -3,14 +3,14 @@
     I like retro computing and repair. I sometimes use EDA Software. I sometimes use Blender. I Sometimes Build Fnaf Pizzerias.
 
 - Project Status
-  - Client (C Version) - WIP
-  - Server (C Version) - Might merge it into the Client
-  - Client (Java Version) - WIP
-  - Client (CS Version) - Broken
-  - Client (X86 Asm Version) - Incomplete
+  - Client (C Version) - WIP (https://github.com/Derailedzack/Client-C-Version)
+  - Server (C Version) - Might merge it into the Client (https://github.com/Derailedzack/Server-C-Version-)
+  - Client (Java Version) - WIP (https://github.com/Derailedzack/Client-Java-Version-)
+  - Client (CS Version) - Broken (Not on github)
+  - Client (X86 Asm Version) - Incomplete (Not on github)
   - Client (CPP Version) - Sheleved (As I don't know where the source is)
-  - librgcs - WIP
-  - SDL2_Test_Project - Unsure
+  - librgcs - WIP (https://github.com/Derailedzack/librgcs)
+  - SDL2_Test_Project - Unsure (https://github.com/Derailedzack/SDL_2_DLL_Test)
   - libAVRemu(Not on github yet) - WIP
 - Possible Ports of the Client
   - MS-DOS
