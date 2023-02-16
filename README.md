@@ -1,5 +1,5 @@
    Here are the languages I know:C,C++,Ruby,Python,C#,Java,X86 ASM,M68K ASM,6502 ASM,Javascript,Typescript,Lua,RBXLua(AKA Luau)
-    I like retro computing and repair. I sometimes use EDA Software. I sometimes use Blender. I Sometimes Build Fnaf Pizzerias.Apparently I've been programming for 7 years (as of this year).
+    I like retro computing and repair. I sometimes use EDA Software. I sometimes use Blender. I Sometimes Build Fnaf Pizzerias.Apparently I've been programming for 8 years (as of this year). Let me know if you want me to make templates
 
 - Project Status
   - Client (C Version) - WIP (https://github.com/Derailedzack/Client-C-Version)
