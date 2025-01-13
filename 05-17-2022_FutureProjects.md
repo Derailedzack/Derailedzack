@@ -1,0 +1,12 @@
+Future Project(s)
+- Forgebin for 1.7.10
+- Forgebin for other versions of minecraft
+- MDK for versions older then 1.7.10
+- Port of requiem to 1.16.5 forge
+- A clone of droidcam
+- Port of Littletiles to 1.16.5 forge
+- Port NarutoC to 1.16.5 
+- Modify dissolution and ladylib to use mixins for patching instead of using FML access transformer
+- A deathnote mod
+- Scriptable/Scripting to minecraft
+- Pre-1.7.10 forge build system
