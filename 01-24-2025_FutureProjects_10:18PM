@@ -2,3 +2,4 @@
 - 2. A test rom and firmware for the OSDevEmulator
 - 3. Port the DevScreen to SDL 1.2 for older platforms that don't support SDL2
 - 4. Port the DevScreen to SDL3
+- 5. Create a lua port of the OSDevEmulator
