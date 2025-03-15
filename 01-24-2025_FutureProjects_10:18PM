@@ -3,3 +3,4 @@
 - 3. Port the DevScreen to SDL 1.2 for older platforms that don't support SDL2
 - 4. Port the DevScreen to SDL3
 - 5. Create a lua port of the OSDevEmulator
+- 6. A remote appication for interfacing with opencomputers or computercraft using TCP or websockets (Websockets will be for the computercraft version if I ever write that as CC:Tweaked only provides websockets not plain old TCP. So that will be fun to deal with)
